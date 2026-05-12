@@ -18,7 +18,7 @@ require (
 	github.com/jenkins-x-plugins/jx-charter v0.0.30
 	github.com/jenkins-x/go-scm v1.15.1
 	github.com/jenkins-x/jx-api/v4 v4.8.1
-	github.com/jenkins-x/jx-helpers/v3 v3.10.3
+	github.com/jenkins-x/jx-helpers/v3 v3.10.4
 	github.com/jenkins-x/jx-kube-client/v3 v3.0.8
 	github.com/jenkins-x/jx-logging/v3 v3.1.0
 	github.com/jenkins-x/lighthouse-client v0.0.1608
@@ -238,7 +238,6 @@ require (
 	github.com/itchyny/gojq v0.12.16 // indirect
 	github.com/itchyny/timefmt-go v0.1.6 // indirect
 	github.com/jbenet/go-context v0.0.0-20150711004518-d14ea06fba99 // indirect
-	github.com/jenkins-x/gen-crd-api-reference-docs v0.1.8 // indirect
 	github.com/jenkins-x/logrus-stackdriver-formatter v0.2.7 // indirect
 	github.com/jmespath/go-jmespath v0.4.0 // indirect
 	github.com/josharian/intern v1.0.0 // indirect
@@ -369,7 +368,6 @@ require (
 	k8s.io/apiextensions-apiserver v0.33.3 // indirect
 	k8s.io/cli-runtime v0.33.3 // indirect
 	k8s.io/component-base v0.33.3 // indirect
-	k8s.io/gengo/v2 v2.0.0-20250207200755-1244d31929d7 // indirect
 	k8s.io/klog/v2 v2.130.1 // indirect
 	k8s.io/kube-openapi v0.0.0-20250318190949-c8a335a9a2ff // indirect
 	k8s.io/kubectl v0.33.3 // indirect
